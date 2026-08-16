@@ -17,7 +17,7 @@
 
 ## ✉️ Contact
 * 📧 **Email:** dlszing13@kaist.ac.kr
-* 🐙 **GitHub:** [://github.com](https://://github.com)
+* 🐙 **GitHub:** [://github.com](https://github.com/recogin)
 
 ---
 <p align="center">🎨 Driven by curiosity, building for impact.</p>
