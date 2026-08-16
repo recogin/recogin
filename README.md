@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Inji Jung
 
 <p align="left">
-  <a href="https://github.com">
+  <a href="https://github.com/recogin">
     <img src="https://hitscounter.dev" alt="Hits"/>
   </a>
 </p>
