@@ -1,7 +1,9 @@
 # 👋 Hello, I'm Inji Jung
 
 <p align="left">
-  <img src="https://seeyoufarm.com" alt="Hits"/>
+  <a href="https://github.com">
+    <img src="https://hitscounter.dev" alt="Hits"/>
+  </a>
 </p>
 
 > **"Turning recognition into real-world projects."**
