@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hello, I'm Inji Jung
 
-<!--
-**recogin/recogin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://seeyoufarm.com" alt="Hits"/>
+</p>
 
-Here are some ideas to get you started:
+> **"Turning recognition into real-world projects."**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+## 🎓 About Me
+* 🏫 **Education:** Undergraduate Student at **KAIST** (School of Transdisciplinary Studies)
+* 🚀 **Interests:** Software Engineering, Startup Ecosystem, Product Management
+* 🌱 **Current Focus:** Deepening my tech stacks through various team projects and building meaningful products.
+
+<br/>
+
+## ✉️ Contact
+* 📧 **Email:** dlszing13@kaist.ac.kr
+* 🐙 **GitHub:** [://github.com](https://://github.com)
+
+---
+<p align="center">🎨 Driven by curiosity, building for impact.</p>
